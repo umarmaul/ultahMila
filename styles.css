@@ -91,7 +91,7 @@ h1 {
 
 .navigation {
 	margin-top: 20px;
-    margin-bottom: 20px;
+	margin-bottom: 20px;
 }
 
 .navigation button {
@@ -110,10 +110,9 @@ h1 {
 }
 
 @media (max-width: 600px) {
-    h1 {
-        font-size: 1.5em;
-
-    }
+	h1 {
+		font-size: 1.5em;
+	}
 	.whiteboard-container {
 		width: 100%;
 		height: 100vh;
@@ -122,10 +121,10 @@ h1 {
 		padding: 20px;
 		justify-content: center;
 	}
-    .navigation {
-        display: flex;
-        align-items: center;
-        margin: 0px;
-        padding: 10px;
-    }
+	.navigation {
+		display: flex;
+		align-items: center;
+		margin: 0px;
+		padding: 10px;
+	}
 }
